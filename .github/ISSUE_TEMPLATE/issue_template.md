@@ -1,7 +1,7 @@
 ---
 name: Issue Template
-about: Suggest a feature which improves user experience or adds value to the product.
-title: Add.. to product 📲...
+about: Spotted an issue with something
+title: Issued with...
 label: enhancement, documentation
 assignees: primetimetran
 ---
