@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest a feature which improves user experience or adds value to the product.
 title: Add..
-label: feature
+labels: feature
 assignees: primetimetran
 ---
 

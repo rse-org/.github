@@ -2,7 +2,7 @@
 name: Issue Template
 about: Spotted an issue with something
 title: Issued with...
-label: enhancement
+labels: enhancement
 assignees: primetimetran
 ---
 
