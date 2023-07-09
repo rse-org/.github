@@ -1,16 +1,16 @@
 ---
-name: Issue template
-about: Any issue which is not a bug or feature request.
-title: Problem with 📲...
-labels: enhancement
+name: Feature request
+about: Suggest a feature which improves user experience or adds value to the product.
+title: Add.. to product 📲...
+labels: feature
 assignees: primetimetran
 ---
 
 ## Description
 
-"Add i18n for customers."
+"Provide a way for non English speakers to use the app in their native language."
 
-### As a user I want to
+### As a user I want/need to
 
 "be able to change my language"
 
@@ -20,7 +20,8 @@ assignees: primetimetran
 
 ### Context
 
-I found this open issue...
+"I don't speak english."
+"30% of users are from none english speaking countries."
 
 ### Screenshots/Videos
 

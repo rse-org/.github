@@ -14,7 +14,7 @@ assignees: primetimetran
 
 "be able to change my language"
 
-### So that I
+### so that I
 
 "can use the product in my native language"
 
