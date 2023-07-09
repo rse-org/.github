@@ -1,5 +1,5 @@
 ---
-name: Feature request 1
+name: Feature request
 about: Suggest a feature which improves user experience or adds value to the product.
 title: Add.. to product 📲...
 label: feature, enhancement

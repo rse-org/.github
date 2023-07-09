@@ -1,5 +1,5 @@
 ---
-name: Bug report 3
+name: Bug report
 about: Create a bug report on an existing feature.
 title: Bug 🐛 when I...
 label: bug, question
