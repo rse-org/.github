@@ -1,5 +1,5 @@
 ---
-name: Issue Template
+name: Issue Template 2
 about: Suggest a feature which improves user experience or adds value to the product.
 title: Add.. to product 📲...
 label: enhancement
