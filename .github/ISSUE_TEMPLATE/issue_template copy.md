@@ -1,5 +1,5 @@
 ---
-name: Issue template1
+name: Issue template2
 about: Any issue which is not a bug or feature request.
 title: Help developers 👨🏻‍💻 work more efficiently by...
 labels: enhancement
