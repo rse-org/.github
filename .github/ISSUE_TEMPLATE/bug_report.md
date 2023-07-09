@@ -2,6 +2,7 @@
 name: Bug report
 about: Create a bug report on an existing feature.
 title: Bug 🐛 when I...
+label: bug
 assignees: primetimetran
 ---
 
