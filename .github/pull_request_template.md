@@ -1,77 +1,52 @@
 <!--
-  For Work In Progress Pull Requests, please use the Draft PR feature,
+  For WIP PRs, please use the Draft PR feature,
   see https://github.blog/2019-02-14-introducing-draft-pull-requests/ for further details.
-  
-  For a timely review/response, please avoid force-pushing additional
-  commits if your PR already received reviews or comments.
-  
+
+  Please avoid force-pushing commits if your PR already received reviews or comments.
+
   Before submitting a Pull Request, please ensure you've done the following:
-  - 📖 Read the Open Sauced Contributing Guide: https://github.com/open-sauced/.github/blob/main/CONTRIBUTING.md.
-  - 📖 Read the Open Sauced Code of Conduct: https://github.com/open-sauced/.github/blob/main/CODE_OF_CONDUCT.md.
   - 👷‍♀️ Create small PRs. In most cases, this will be possible.
   - ✅ Provide tests for your changes.
   - 📝 Use descriptive commit messages.
   - 📗 Update any related documentation and include any relevant screenshots.
 -->
 
-## What type of PR is this? (check all applicable)
+## PR Type
 
-- [ ] 🍕 Feature
-- [ ] 🐛 Bug Fix
-- [ ] 📝 Documentation Update
-- [ ] 🎨 Style
-- [ ] 🧑‍💻 Code Refactor
-- [ ] 🔥 Performance Improvements
+- [ ] 🔁 CI
 - [ ] ✅ Test
 - [ ] 🤖 Build
-- [ ] 🔁 CI
-- [ ] 📦 Chore (Release)
+- [ ] 🎨 Style
 - [ ] ⏩ Revert
+- [ ] 🍕 Feature
+- [ ] 🐛 Bug Fix
+- [ ] 🧑‍💻 Code Refactor
+- [ ] 📦 Chore (Release)
+- [ ] 📝 Documentation Update
+- [ ] 🔥 Performance Improvements
 
 ## Description
 
-<!-- 
-Please do not leave this blank 
-This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. 
--->
+<!-- This PR [adds/removes/fixes/replaces] the [feature/bug/previous] that [helps/crashes/implementation]. -->
 
-## Related Tickets & Documents
-<!-- 
-Please use this format link issue numbers: Fixes #123
-https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
--->
+## Related issues, sources, documents
 
-Important reference[^1].
+- Related [issue/source/document]().
 
-And another reference[^2].
-
-## Mobile & Desktop Screenshots/Recordings
+## Screenshots/Recordings
 
 <!-- Visual changes require screenshots -->
 
-
-## Added tests?
+## Tests
 
 - [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
 - [ ] 🙋 no, because I need help
+- [ ] 🙅 no, because they aren't needed
 
-## Added to documentation?
+## Documentation
 
+- [ ] 🌐 [Wiki]()
+- [ ] 🎨 [Figma]()
 - [ ] 📜 README.md
-- [ ] 📓 docs.opensauced.pizza
-- [ ] 🍕 dev.to/opensauced
-- [ ] 📕 storybook
-- [ ] 🙅 no documentation needed
 
-## [optional] Are there any post-deployment tasks we need to perform?
-
-
-
-## [optional] What gif best describes this PR or how it makes you feel?
-
-
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
+## [optional] Post-deployment tasks
